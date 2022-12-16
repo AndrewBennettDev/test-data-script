@@ -19,3 +19,4 @@ for i in $(seq 1 $numfolders)
   done
   cd ..
 done
+echo Test data created
